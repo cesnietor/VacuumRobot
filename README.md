@@ -1,4 +1,6 @@
 # VacuumRobot
+![alt text](images/intro.jpg "Logo Title Text 1")
+
 # Created by César Nieto
 DIY Vacuum Robot project
 An open source project designed to get into the robotics and programming (it is not needed to know how to program).
